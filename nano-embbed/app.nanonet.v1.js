@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+    console.log('raw/app.nanonet.v1.js loaded!')
 })
 
 const comandos = [
